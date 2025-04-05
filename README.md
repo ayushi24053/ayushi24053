@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
+- 💬 Ask me about **anything:)**
+
 - 📫 How to reach me **cool.aayushii24@gmail.com**
+
+- ⚡ Fun fact **🎨Artist by soul, coder by fate💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
